@@ -1,4 +1,4 @@
-<h1> Image Converter</h1>
+<h1> Image Converter with Node - Webkit</h1>
 <p>By Feujerie</p>
 
 <h1>How to change format jpg to png and size ?</h1>
